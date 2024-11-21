@@ -1,5 +1,5 @@
 require'nvim-treesitter.configs'.setup {
-  ensure_installed = {"vim", "gitcommit", "dockerfile"},
+  ensure_installed = {"lua", "python"},
 
   sync_install = false,
   auto_install = true,
